@@ -1,0 +1,9 @@
+Package: com.ahmad.vizoForever
+Name: vizoForever
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove time limit while recording screen using vizoRec application
+Maintainer: Ahmad
+Author: Ahmad
+Section: Tweaks
