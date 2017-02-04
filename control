@@ -3,7 +3,7 @@ Name: vizoForever
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Remove time limit while recording screen using vizoRec application
+Description: Remove time limit while recording screen using vizoRec application: http://vizorec.com
 Maintainer: Ahmad
 Author: Ahmad
 Section: Tweaks
